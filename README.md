@@ -70,13 +70,6 @@ A complete CI/CD workflow using GitHub Actions — builds, tests, packages, and 
 
 ---
 
-## 🐍 Contribution Graph Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tgate52/tgate52/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
 
 ## 👨‍💻 About Me
 Coming from a GitLab-based university environment, I've been transitioning to GitHub and modern DevOps tooling.  
