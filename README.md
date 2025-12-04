@@ -1,13 +1,13 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tgate52/tgate52/main/assets/banner.png" width="80%" alt="Travis Gates — DevOps Engineer in Progress">
+  <img src="https://raw.githubusercontent.com/tgate52/tgate52/main/assets/cloud-banner.png" width="90%" alt="DevOps Cloud Banner">
 </p>
 
 <h1 align="center">👋 Hi, I'm Travis</h1>
 
 <p align="center">
-  Systems Administrator transitioning into <strong>DevOps & Software Engineering</strong>. 
-  Air Force veteran with a background spanning jet maintenance, data analysis, networking, and system administration — now building hands-on CI/CD, cloud, automation, and real-world engineering projects.
+  Air Force veteran and Systems Administrator transitioning into <strong>DevOps & Software Engineering</strong>.  
+  Background in jet maintenance, data analysis, networking, and system administration — now focused on CI/CD, cloud, automation, and real-world engineering projects.
 </p>
 
 ---
@@ -15,9 +15,9 @@
 ## 🚀 What I'm Working On
 - Building CI/CD pipelines using GitHub Actions, Docker, and Pytest  
 - Learning cloud infrastructure with **AWS** and **Terraform**  
-- Automating tasks with **Python**  
-- Creating real-world DevOps projects to prepare for a DevOps Engineer / SWE role  
-- Migrating from GitLab university workflows to **GitHub**, learning industry-standard tooling
+- Automating workflows with **Python**  
+- Developing real-world DevOps projects to prepare for a DevOps Engineer / SWE role  
+- Transitioning from GitLab school pipelines to full GitHub ecosystems
 
 ---
 
@@ -40,49 +40,54 @@
 
 ### **Other**
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-0078D7?logo=windows&logoColor=white)
-![Systems Administration](https://img.shields.io/badge/Systems%20Admin-2E8B57)
+![Networking](https://img.shields.io/badge/Networking-0078D7?logo=cisco&logoColor=white)
+![Systems Administration](https://img.shields.io/badge/System%20Administration-2E8B57)
 
 ---
 
 ## 🔥 Featured Project
+
 ### **CI/CD Pipeline Demo**
-A complete CI/CD workflow using GitHub Actions — runs automated tests, installs dependencies, builds a Docker image, and validates functionality.
+A complete CI/CD workflow using GitHub Actions — builds, tests, packages, and validates a Python app inside a Docker container.
 
 🔗 **Repo:** https://github.com/tgate52/ci-cd-pipeline-demo
 
 ---
 
 ## 🎯 Goals for 2025
-- Deploy a real infrastructure stack using **Terraform + AWS**
-- Build a Kubernetes deployment project  
-- Strengthen Python automation skills  
-- Land my first official **DevOps Engineer / SWE role**  
-- Create a portfolio of real-world, resume-ready engineering projects  
+- Deploy a real AWS/Terraform infrastructure stack  
+- Build a Kubernetes container orchestration project  
+- Continue strengthening Python automation skills  
+- Earn my first official **DevOps Engineer / SWE role**  
+- Build a strong portfolio of real-world, practical engineering projects  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tgate52&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tgate52&layout=compact&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=tgate52&show_icons=true&theme=tokyonight&count_private=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tgate52&layout=compact&theme=tokyonight" height="165" />
 </p>
 
 ---
 
 ## 🐍 Contribution Graph Snake
+
 <p align="center">
-  <img src="https://github.com/tgate52/tgate52/blob/output/github-contribution-grid-snake.svg" alt="snake animation">
+  <img src="https://raw.githubusercontent.com/tgate52/tgate52/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-Coming from a GitLab-based school environment, I've been transitioning to GitHub and modern DevOps tooling.  
-Building pipelines, debugging workflows, and deploying containers has taught me more than textbooks ever could.
+Coming from a GitLab-based university environment, I've been transitioning to GitHub and modern DevOps tooling.  
+Building pipelines, debugging workflows, and deploying containers has taught me more in weeks than textbooks taught me in years.
 
-I'm focused on learning by doing — and turning each project into one step closer to the engineer I'm becoming.
+Every project I build brings me one step closer to the engineer I’m becoming.
 
 ---
 
@@ -91,6 +96,4 @@ Feel free to reach out:
 
 🔗 **LinkedIn:** https://linkedin.com/in/travgates  
 
-
 ---
-
