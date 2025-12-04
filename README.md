@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tgate52/tgate52/main/assets/cloud-banner.png" width="90%" alt="DevOps Cloud Banner">
-</p>
-
 <h1 align="center">👋 Hi, I'm Travis</h1>
 
 <p align="center">
